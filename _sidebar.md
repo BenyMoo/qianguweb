@@ -1,3 +1,3 @@
-- [HTML](01-HTML/README.md)
+- [HTML](01-HTML/01-认识Web和Web标准.md)
 - [CSS基础](02-CSS基础/README.md)
 - [JS基础](04-JavaScript基础/README.md)
